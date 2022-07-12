@@ -1,6 +1,10 @@
 # Welcome to my profile
 
-Hello, my name is Ian Rossi.
+Hello, my name is Ian Rossi, data science student.
+
+![github-avatar](https://user-images.githubusercontent.com/97486752/178388106-d0410eaf-7b0b-4cc4-96d3-41bd4361931e.jpg)
+
+Living in SP, Brazil 🇧🇷
 
 ## Hobbies
 
@@ -22,5 +26,4 @@ Hello, my name is Ian Rossi.
 
 - Linkedin: https://www.linkedin.com/in/ian-rossi-77063b142/
 - Github @ianrossi08
-- Instagram:@ianrossi
-- Email: ian.rossi08@hotmail.com
+
