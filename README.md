@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Ian.<br><br>I'm a Data Analyst at a tech travel company.<br>I'm graduated at manufacturing engineer as certified as Fullstack Data Scientist at DNC School.<br><br>I have a solid background as Data Analyst with a lot of knowledge in SQL, Python, Power BI and VSCode.<br>Always interested in learning new things!
+Hello, my name is Ian.<br><br>I'm a Data Analyst at a tech travel company.<br>I'm graduated at manufacturing engineer and certified as Fullstack Data Scientist at DNC School.<br><br>I have a solid background as Data Analyst with a lot of knowledge in SQL, Python, Power BI and VSCode.<br>Always interested in learning new things!
 
 
 ## 🌐 Socials:
